@@ -1,0 +1,26 @@
+.scroll_fix {
+background: url(http://specially4u.ru/data/new-version/img/element.png) no-repeat top left ,url(http://specially4u.ru/data/new-version/img/yzor1.png) right top no-repeat ,url(http://specially4u.ru/data/new-version/img/sex2.png) no-repeat right center fixed ,url(http://specially4u.ru/data/new-version/img/sex1.png) no-repeat left bottom fixed, url(http://specially4u.ru/data/new-version/img/fon.jpg)repeat center fixed;
+}
+#page_header.p_head1 .left {
+background: url(http://specially4u.ru/data/new-version/1a.png) no-repeat; background-size: auto 40px;}
+#page_header.p_head1 #top_logo_down { background: transparent;}
+#page_header.p_head1 .back { background: #000;}
+#page_header.p_head1 .right {
+background: transparent;
+}
+h4.page_top { background: transparent; color: #fff;}
+
+#side_bar ol li .left_row {background: #000; color: #fff; display: block; padding: 0px 0px 0px 6px; white-space: nowrap; }
+#wrap1 {
+background: #000; color: #fff; border: none; box-shadow: 0px 0px 6px #fff;
+}
+#feed_bar { background: transparent;border: none;}
+
+//.scroll_fix_wrap, .stl_active.over_fast #stl_bg //{background: #727272;} 
+#side_bar, .wide_wall_module, .tabs.t_bar {background: #000;}
+#ac {background: #000 !important;}
+#ac .performer, #ac .title, #ac .duration {color: #E54AE5; text-shadow: 1px 1px 2px #F8E169;}
+.ac_load_line {background-color: #FD0A4E; }
+.ac_progress_line {background-color: #A78F2F;}
+.summary_wrap {background: #000; color: #fff;}
+a {color: #2B9DF3;}
